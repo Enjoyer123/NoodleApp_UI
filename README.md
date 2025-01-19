@@ -4,7 +4,7 @@ This is a user interface design project for a noodle shop ordering system.
 
 - Designed intuitive user interfaces for easy navigation and order selection.
 
-**Course:** HUMAN COMPUTER INTERACTION	  
+**Course:** HUMAN COMPUTER INTERACTION (UX/UI)
 **Year:** 2023  
 
 
