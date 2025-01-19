@@ -6,3 +6,6 @@ This is a user interface design project for a noodle shop ordering system.
 
 **Course:** HUMAN COMPUTER INTERACTION	  
 **Year:** 2023  
+
+
+![Ui noodle](ui.png)
